@@ -2,11 +2,11 @@
 
 <div style="display:flex">
     <div style="width:50%;">
-        <center>这是我使用的语言排行榜</center>
-        <center>欢迎关注B站账号:</center>
-        <center>Here is my leaderboard of the languages I use</center>
-        <center>Welcome to follow the Bilibili account:</center>
-        <center>"每日科技DaliyTech"</center>
+        <center>这是我使用的语言排行榜</center><br>
+        <center>欢迎关注B站账号:</center><br>
+        <center>Here is my leaderboard of the languages I use</center><br>
+        <center>Welcome to follow the Bilibili account:</center><br>
+        <center>"每日科技DaliyTech"</center><br>
     </div>
         <img        src="https://github.com/cnhacklqr/cnhacklqr/blob/main/头像.png"         style="width:50%"/>
 </div>
